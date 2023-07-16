@@ -1,0 +1,19 @@
+Patient = 
+Description = BB055 Arch 2
+Date = 10/04/2019 7:45:31 a.m. 
+Number of Channel = 9 
+Points for Each Channel = 2185 
+Data Sampling Rate = 240 points/second 
+Start Time = 3/04/2019 10:52:26 a.m.
+Stop Time = 3/04/2019 10:52:26 a.m.
+Units: mmHg for pressure and mV for all others 
+Channel Number  Channel Label
+1              I
+2              II
+3              III
+4              aVR
+5              aVL
+6              aVF
+7              V1
+13              ARCH
+18              SPO2

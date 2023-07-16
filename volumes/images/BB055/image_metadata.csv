@@ -1,0 +1,5 @@
+label,participant_id,scan_id,image_type,dicom_path,cartesian_images_path,number_of_cycles,number_of_frames,frame_rate,heart_rate,schema_version
+1,BB055,25237501,3DLV,../data/images/BB055/DICOM/25237501,../data/images/BB055/3D-meta-images/BB055_25237501*,1,43,33,48,v1.0
+2,BB055,25237787,3DLV,../data/images/BB055/DICOM/25237787,../data/images/BB055/3D-meta-images/BB055_25237787*,1,41,33,49,v1.0
+3,BB055,25237875,3DLV,../data/images/BB055/DICOM/25237875,../data/images/BB055/3D-meta-images/BB055_25237875*,1,40,33,51,v1.0
+4,BB055,25238084,3DLV,../data/images/BB055/DICOM/25238084,../data/images/BB055/3D-meta-images/BB055_25238084*,1,42,33,49,v1.0
